@@ -52,3 +52,7 @@ La siguiente «Licencia Pública de la Unión Europea» («European Union Public
 
 <a href="https://joinup.ec.europa.eu/system/files/ES/EUPL%20v.1.1%20-%20Licencia.pdf" target="_new">EUPL 1.1</a>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jormaral/alsigm-1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
